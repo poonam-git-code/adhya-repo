@@ -8,3 +8,4 @@ do
 	echo "the number of characters to find $count is $output"
 	count=`expr $count + 1`
 done < rollnumber
+echo "code completed"
